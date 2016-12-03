@@ -1,0 +1,11 @@
+C:\Users\Admin\documents\visual studio 2010\Projects\Jspam\Jspam\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2010\Projects\Jspam\Jspam\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\Jspam\Jspam\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\Jspam\Jspam\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Admin\documents\visual studio 2010\Projects\Jspam\Jspam\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Admin\documents\visual studio 2010\Projects\Jspam\Jspam\bin\Release\TheSK33T3r.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Jspam\Jspam\bin\Release\TheSK33T3r.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\Jspam\Jspam\bin\Release\TheSK33T3r.xml
+C:\Users\Admin\documents\visual studio 2010\Projects\Jspam\Jspam\obj\x86\Release\TheSK33T3r.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\Jspam\Jspam\obj\x86\Release\TheSK33T3r.xml
+C:\Users\Admin\documents\visual studio 2010\Projects\Jspam\Jspam\obj\x86\Release\TheSK33T3r.pdb
